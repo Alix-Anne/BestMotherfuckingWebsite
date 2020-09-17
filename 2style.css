@@ -1,0 +1,142 @@
+h1, h2, h3, h4, body
+{
+
+	    color: #444;
+    max-width:650px;
+ 
+   
+    text-align: justify;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    background: black;
+    color:#d9d9d9;
+
+}
+
+h1, h2, h3, h4
+{
+
+	line-height: 1.2;
+	font-weight: bold;
+	text-align: justify;
+
+	
+}
+
+body
+{
+	font-size: 16px ; 
+	line-height: 1.4;
+	max-width:800px;
+	padding :1em ;
+	margin: 2em auto;
+	font-family: Open Sans, Arial;
+	
+}
+
+h1
+{
+	font-size: 2em;
+
+}
+h2
+{
+	font-size: 1.5em;
+
+
+}
+h3
+{
+	font-size: 1.17em;
+
+}
+.mfw
+{
+	color:#b00000;
+}
+
+.wrong
+{
+	color : #d24637;
+	text-decoration: underline;
+	font-weight: 600
+}
+
+#rbw.colored
+{
+	color:rgb(8, 105, 18);
+}
+
+.sb
+{
+	color:#00e;
+}
+.sv
+{
+	color :#551a8b;
+}
+.nc
+{
+	color:#07a;
+	
+}
+a:visited
+{
+	color : #941352;
+}
+
+.fakepre
+{
+	font-family: monospace
+}
+.foufoufou
+{
+	color : #444;
+	font-weight: 700;
+}
+.foufivfoufivfoufiv
+{
+	color : #454545;
+	font-weight: 700;
+
+
+}
+.picture-left
+{
+	float: left
+}
+.notfloat
+{clear:left;}
+
+blockquote author 
+{padding-top: 1em;
+    width: 80%;
+    margin-left: 15%;
+font-style: 0.6em;}
+
+.citneed
+   { vertical-align: top;
+    font-size: .7em;
+    padding-left: .3em;
+}
+.a.kopimi
+{margin-right: auto;
+margin-left: auto}
+.visited
+{color: #941352}
+.visited-maroon
+{color:#85144b;}
+
+ a{
+    color: #07a;}
+
+ background-color: #000;
+    top: 34px;
+    padding: 2px 5px;}
+
+ div#contrast, div#invmode {
+    cursor: pointer;
+    position: fixed;
+    right: 10px;
+    font-size: .8em;
+    text-decoration: underline;
